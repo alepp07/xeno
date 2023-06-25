@@ -7,7 +7,7 @@
   </a>
   <br/>
   <p align="center" style="text-align: center;font-size: 36px; font-weight: bolder">
-  THD Chatbot
+  THD Chatbot 🗨️
   </p>
 </p>
 </p>
@@ -64,5 +64,5 @@ _on route **/** , you should get the intro interface :_
 | Name   | Description         |
 | :----- | :------------------ |
 | `Alif` | Backend, Deployment |
-| `Zam`  | LUIS integration    |
+| `Zam`  | LLM integration     |
 | `Ange` | Frontend, Websocket |
