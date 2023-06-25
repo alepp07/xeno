@@ -3,10 +3,10 @@
 <p align="center">
 <p align="center">
   <a href="/">
-    <img alt="xeno logo" src="https://raw.githubusercontent.com/artemesian/xeno/main/frontend/src/assets/xeno%20logo%20with%20text.png">
+    <img alt="xeno logo" src="https://raw.githubusercontent.com/artemesian/xeno/main/frontend/src/assets/xeno%20logo%20with%20text.png" width="60%">
   </a>
   <br/>
-  <p align="center" style="text-align: center;font-size: 30px; font-weight: bolder">
+  <p align="center" style="text-align: center;font-size: 36px; font-weight: bolder">
   THD Chatbot
   </p>
 </p>
@@ -14,7 +14,7 @@
 
 <!--rehype:ignore:end-->
 
-### Tech
+## Tech
 
 - [React](https://reactjs.org/) - Frontend Library ⚛️
 - [Express](https://expressjs.com/) - Web Framework for Node.js 🧩
@@ -61,8 +61,8 @@ _on route **/** , you should get the intro interface :_
 
 ## Authors vs Tasks distribution
 
-| Name                                              | Description         |
-| :------------------------------------------------ | :------------------ |
-| `Alif`                                            | Backend, Deployment |
-| `Zam`                                             | LUIS integration    |
-| [`Noubissie Ange`](https://github.com/artemesian) | Frontend, Websocket |
+| Name   | Description         |
+| :----- | :------------------ |
+| `Alif` | Backend, Deployment |
+| `Zam`  | LUIS integration    |
+| `Ange` | Frontend, Websocket |
