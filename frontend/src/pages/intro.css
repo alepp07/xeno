@@ -1,0 +1,35 @@
+.intro-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.intro-page .button{
+    margin-bottom: 100px;
+    position: absolute;
+    bottom: 0;
+    width: 80% !important;
+    transition: 0.15s;
+}
+
+.intro-page .button:hover{
+    background: black !important;
+}
+
+.intro-page .boxes {
+    width: 100%;
+    height: 415px;
+    background-repeat: repeat;
+    background-size:contain;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.7;
+}
+
+.intro-page .xeno-logo-with-text{
+    width: 65%;
+    max-width: 600px;
+}

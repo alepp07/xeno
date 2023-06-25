@@ -1,0 +1,23 @@
+{
+  "conversations": [
+    {
+      "question": "What courses does TH Deggendorf offer?",
+      "keywords": ["courses", "offer", "available"],
+      "answer": "TH Deggendorf offers a wide range of courses in various disciplines such as engineering, computer science, business administration, media technology, and many more. For a complete list of courses, you can visit the university's official website."
+    },
+    {
+      "question": "What are the admission requirements for TH Deggendorf?",
+      "keywords": ["admission", "requirements"],
+      "answer": "The admission requirements for TH Deggendorf vary depending on the course you are applying for. For more information, you can visit the university's official website (https://www.th-deg.de/en)."
+    }
+  ],
+  "softFallbacks": [
+    "I apologize, but I couldn't understand your question. Can you rephrase it or ask something else?",
+    "Hmm, I'm not sure I can assist with that. Can you try asking another question?",
+    "I'm afraid I don't have the information you're looking for. Could you please try asking a different question?"
+  ],
+  "hardFallbacks": [
+    "I'm sorry, but I couldn't find the information you're looking for. It's possible that the specific details you're asking about are not readily available or may require further research. I recommend reaching out to the TH Deggendorf's official website or contacting their admissions office directly for accurate and up-to-date information. They will be able to assist you better with your specific query. Anything else I can help with?",
+    "Hmmm, this is definitely hard for me to answer. I recommend reaching out to a personel at TH Deggendorf or visiting their official website (https://www.th-deg.de/en) for more information. Anything else I can help with?"
+  ]
+}
